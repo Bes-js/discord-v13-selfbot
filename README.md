@@ -1,12 +1,28 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=435&lines=%F0%9F%8C%BC+Destek+%26+%C4%B0leti%C5%9Fim+%C4%B0%C3%A7in%3A+Be%C5%9F%230005" alt="Beş" />
+# Discord v13 Self Bot
 
-# discord-v13-selfbot
-v13 Self Bot 15 Star'da Paylaşacağım.
+SelfBot İşte Ne Anlatiyim,Google'a Yaz Araştır 
 
-# 15 Star Olunca Paylaşacağım,35 Starda v13 Self Bot Guard Paylaşılıcak.
+⚠ SelfBot'u Yapmanızı Önermiyorum Discord Terms Üzerinde Yasak Olan Bişey, Herhangi Bir Durumda Sorumluluk Kabul Etmiyorum.
 
-unutmayın bu discord terms üzerinde yasak olan bişey,olası şeylerden hiçbir sorumluluk kabul etmiyorum.
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?hideDiscrim=true)](https://discord.com/users/928259219038302258)
 
-   <div align="center">
-<img src="https://komarev.com/ghpvc/?username=discord-v13-selfbot&label=Beş%20Sayısı&color=da004e" alt="Bes-js/discord-v13-selfbot" />
-  </div>
+# Kurulum & İçerik
+
+- İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
+
+- Daha sonra altyapıyı indirip '.env' dosyasına token=<tokeniniz> < > Koymayınız.
+
+    - Konsola ` node . ` Yazarak Projeyi Başlatın.
+
+	- Bu Kadar Bot Hazır
+
+# Görseller:
+
+<img  src="https://cdn.discordapp.com/attachments/950167988127006821/1045499535406936064/2022-11-25_03-40-11.png">
+<img  src="https://cdn.discordapp.com/attachments/950167988127006821/1045499535767638026/2022-11-25_03-39-17.png">
+  
+# İletişim
+
+- [Discord Profilim](https://discord.com/users/928259219038302258)
+
+- Herhangi bir hata bulmanız durumunda bana ulaşabilirsiniz ^^
